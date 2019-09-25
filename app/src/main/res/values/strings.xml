@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFCDemo</string>
+    <string name="write_btn_text">Write data to NFC tag</string>
+    <string name="read_btn_text">Read data fom NFC tag</string>
+    <string name="error">Error Writing Message !</string>
+    <string name="success">Successfully written to Tag !</string>
+    <string name="progress">Writing to Tag..</string>
+    <string name="tag_detected">NFC Tag Detected !</string>
+    <string name="read_tag">Read from NFC Tag</string>
+    <string name="write_tag">Write to NFC Tag</string>
+    <string name="tap_tag">Tap the NFC Tag to your device</string>
+</resources>
